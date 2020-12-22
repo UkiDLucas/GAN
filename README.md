@@ -1,4 +1,10 @@
-Readme
+TBD
+
+
+To follow up:
+
+"In May 2019, researchers at Samsung demonstrated a GAN-based system that produces videos of a person speaking, given only a single photo of that person"
+
 
 
 RESOURCES:
