@@ -26,11 +26,11 @@ The challengers always try to outcompete the incumbents, often this happens by a
 
 
 
-In computer science, we train one "model" on what is considered the current "state-of-the-art".
+In computer science, we train one "model" on what is considered the current "state-of-the-art", it is often called the "discriminator" model.
 
-Then, we create another "model" capable of developing zillions of new designs.
+Then, we create another "model" capable of developing zillions of new designs, it is called the "generator" model.
 
-The new designs compete against the current "state-of-the-art" and if it is better, or at least indistinguishable in quality, the new standard is adopted.
+Every new design is compared against the current "state-of-the-art" and if it is better, or at least indistinguishable in quality, the new standard is adopted.
 
 In reality, the "factory" of the new design is nothing but a combination of millions of parameters set to the optimal combination. Computer tries many combinations until it derives the optimal solution.
 
@@ -54,7 +54,7 @@ The name Generative Adversarial Networks (GAN) implies that there are two or mor
 - https://www.youtube.com/watch?v=kSLJriaOumA
 - https://www.youtube.com/watch?v=idIHmtjz1EQ&feature=youtu.be
 - https://www.theverge.com/2019/3/5/18251267/ai-art-gans-mario-klingemann-auction-sothebys-technology
-- https://en.wikipedia.org/wiki/Edmond_de_Belamy
+- https://en.wikipedia.org/wiki/Edmond_de_Belamy 
 - [Generative Adversarial Networks (GANs) - Computerphile - Rob Miles](https://www.youtube.com/watch?v=Sw9r8CL98N0)
 - 
 
