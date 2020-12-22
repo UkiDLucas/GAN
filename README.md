@@ -36,11 +36,11 @@ What's more important, the "discriminator" provides a feedback to the "generator
 
 In reality, the "generator" factory of the new design is nothing but a combination of millions of parameters set to the optimal combination. Computer tries many combinations until it derives the optimal solution.
 
-Based on that feedback form "discriminator", the "generator" adjusts its parameters. The adjustment can be large if the creation was totally off, or the adjustment can be very small if the creation is almost perfect. 
+Based on that feedback form "discriminator", the "generator" adjusts its parameters. The adjustment can be large if the creation was totally off, or the adjustment can be very small if the creation is almost perfect. Darwinian evolution. 
 
 In summary, the name Generative Adversarial Networks (GAN) implies that there are two or more "deep neural networks" which compete against each other via generation of new models. 
 
-Darwinian evolution.
+
 
 
 
@@ -55,6 +55,7 @@ Darwinian evolution.
 ## RESOURCES
 
 - https://en.wikipedia.org/wiki/Generative_adversarial_network
+- [Ian Goodfellow: Generative Adversarial Networks (GANs) | Lex Fridman Podcast #19](https://www.youtube.com/watch?v=Z6rxFNMGdn0&t=453s)
 - https://github.com/NVlabs/metfaces-dataset
 - https://www.youtube.com/watch?v=BIZg_PPuj_0
 - https://www.youtube.com/watch?v=kSLJriaOumA
