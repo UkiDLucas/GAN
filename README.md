@@ -26,11 +26,13 @@ The challengers always try to outcompete the incumbents, often this happens by a
 
 
 
-In computer science, we train one "model" on what is considered the current "state-of-the-art", it is often called the "discriminator" model.
+In computer science, we train one "model" on what is considered the current state-of-the-art, it is often called the "discriminator" model.
 
 Then, we create another "model" capable of developing zillions of new designs, it is called the "generator" model.
 
-Every new design is compared to the current "state-of-the-art" and if it is better, or at least indistinguishable in quality, the new standard is adopted. In any case, the "discriminator" provides a feedback to the "generator" on how well it did. 
+Every new design is compared to the current state-of-the-art and if it is better, or at least indistinguishable in quality, the new standard is adopted. The "discriminator" model trains to adopt to a new level.
+
+What's more important, the "discriminator" provides a feedback to the "generator" on how well it did. 
 
 In reality, the "generator" factory of the new design is nothing but a combination of millions of parameters set to the optimal combination. Computer tries many combinations until it derives the optimal solution.
 
