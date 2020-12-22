@@ -1,6 +1,6 @@
 # Generative Adversarial Networks (GAN)
 
-by Uki D. Lucas, started in December 2020
+by Uki D. Lucas, started in December 2020 on [GitHub](https://github.com/UkiDLucas/GAN)
 
 
 
