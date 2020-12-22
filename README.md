@@ -8,7 +8,9 @@ In this study, I attempt to understand, explain and showcase the Generative Adve
 
 
 
-## 
+## Explanation via analogy
+
+
 
 The life on Earth is defined by competition of organisms. At any place and time, there is a set of conditions that represent a present "state-of-the-art". 
 
@@ -18,7 +20,11 @@ And then, there are challengers, the newcomers that are slightly different, hopi
 
 The challengers always try to outcompete the incumbents, often this happens by a better design, and sometimes because the conditions have changed favoring a new design.
 
+
+
 ### Translation to the Computer Science
+
+
 
 In computer science, we train one "model" on what is considered the current "state-of-the-art".
 
