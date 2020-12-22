@@ -24,7 +24,11 @@ In computer science, we train one "model" on what is considered the current "sta
 
 Then, we create another "model" capable of developing zillions of new designs.
 
-The new designs compete against the current "state-of-the-art" and if they are better or indistinguishable in quality, the new 
+The new designs compete against the current "state-of-the-art" and if it is better, or at least indistinguishable in quality, the new standard is adopted.
+
+In reality, the "factory" of the new design is nothing but a combination of millions of parameters set to the optimal combination. Computer tries many combinations until it derives the optimal solution.
+
+The name Generative Adversarial Networks (GAN) implies that there are two or more "deep neural networks" which compete against each other via generation of new models.
 
 
 
