@@ -44,7 +44,10 @@ The name Generative Adversarial Networks (GAN) implies that there are two or mor
 
 
 
-RESOURCES:
+
+
+## RESOURCES
+
 - https://en.wikipedia.org/wiki/Generative_adversarial_network
 - https://github.com/NVlabs/metfaces-dataset
 - https://www.youtube.com/watch?v=BIZg_PPuj_0
@@ -52,4 +55,6 @@ RESOURCES:
 - https://www.youtube.com/watch?v=idIHmtjz1EQ&feature=youtu.be
 - https://www.theverge.com/2019/3/5/18251267/ai-art-gans-mario-klingemann-auction-sothebys-technology
 - https://en.wikipedia.org/wiki/Edmond_de_Belamy
+- [Generative Adversarial Networks (GANs) - Computerphile - Rob Miles](https://www.youtube.com/watch?v=Sw9r8CL98N0)
+- 
 
