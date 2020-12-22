@@ -30,11 +30,13 @@ In computer science, we train one "model" on what is considered the current "sta
 
 Then, we create another "model" capable of developing zillions of new designs, it is called the "generator" model.
 
-Every new design is compared against the current "state-of-the-art" and if it is better, or at least indistinguishable in quality, the new standard is adopted.
+Every new design is compared to the current "state-of-the-art" and if it is better, or at least indistinguishable in quality, the new standard is adopted. In any case, the "discriminator" provides a feedback to the "generator" on how well it did. 
 
-In reality, the "factory" of the new design is nothing but a combination of millions of parameters set to the optimal combination. Computer tries many combinations until it derives the optimal solution.
+In reality, the "generator" factory of the new design is nothing but a combination of millions of parameters set to the optimal combination. Computer tries many combinations until it derives the optimal solution.
 
-The name Generative Adversarial Networks (GAN) implies that there are two or more "deep neural networks" which compete against each other via generation of new models.
+Based on that feedback form "discriminator", the "generator" adjusts its parameters. The adjustment can be large if the creation was totally off, or the adjustment can be very small if the creation is almost perfect. 
+
+In summary, the name Generative Adversarial Networks (GAN) implies that there are two or more "deep neural networks" which compete against each other via generation of new models.
 
 
 
