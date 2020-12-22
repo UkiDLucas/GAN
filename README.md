@@ -38,7 +38,9 @@ In reality, the "generator" factory of the new design is nothing but a combinati
 
 Based on that feedback form "discriminator", the "generator" adjusts its parameters. The adjustment can be large if the creation was totally off, or the adjustment can be very small if the creation is almost perfect. 
 
-In summary, the name Generative Adversarial Networks (GAN) implies that there are two or more "deep neural networks" which compete against each other via generation of new models.
+In summary, the name Generative Adversarial Networks (GAN) implies that there are two or more "deep neural networks" which compete against each other via generation of new models. 
+
+Darwinian evolution.
 
 
 
