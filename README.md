@@ -1,10 +1,10 @@
 # Generative Adversarial Networks (GAN)
 
-by Uki D. Lucas, started in December 2020 on [GitHub](https://github.com/UkiDLucas/GAN)
+by Uki D. Lucas, the project was started in December 2020 on [GitHub](https://github.com/UkiDLucas/GAN)
 
 
 
-In this study, I attempt to understand, explain and showcase the Generative Adversarial Networks (GAN), arguably the most formidable force in currently available compute science.
+In this study, I attempt to explain the Generative Adversarial Networks (GAN), arguably the **most formidable force in currently available compute science**.
 
 
 
@@ -14,9 +14,9 @@ In this study, I attempt to understand, explain and showcase the Generative Adve
 
 The life on Earth is defined by competition of organisms. At any place and time, there is a set of conditions that represent a present "state-of-the-art". 
 
-Imagine the primordial savanna. There are the nimblest of the antelopes, the top predators, the best of the of the camouflage users, and maybe, there are some fire-making apes, the smartest of the bunch. These are the current incumbents, the best of the best, each in their own speciality. 
+Imagine the primordial savanna. There are the top predators, the nimblest of the antelopes, the best camouflage users, and maybe, there are some fire-making apes, the smartest of the bunch. These are the current incumbents, the best in each in their own speciality. 
 
-And then, there are challengers, the newcomers that are slightly different, hoping to gain this extra edge to win in the never ending race.
+And then, there are challengers, the newcomers that are slightly different, hoping to gain an extra edge to win in the never ending race.
 
 The challengers always try to outcompete the incumbents, often this happens by a better design, and sometimes because the conditions have changed favoring a new design.
 
@@ -26,21 +26,17 @@ The challengers always try to outcompete the incumbents, often this happens by a
 
 
 
-In computer science, we train one "model" on what is considered the current state-of-the-art, it is often called the "discriminator" model.
+In computer science, we train one "model" on what is considered the current state-of-the-art, it is often called the "**discriminator**" model.
 
-Then, we create another "model" capable of developing zillions of new designs, it is called the "generator" model.
+Then, we create another model capable of imagining zillions of new designs, it is called the "**generator**" model.
 
-Every new design is compared to the current state-of-the-art and if it is better, or at least indistinguishable in quality, the new standard is adopted. The "discriminator" model trains to adopt to a new level.
+The nomenclature being currently used, such as discriminator, generator, adversarial networks and the game theory are rather heavy footed and it is more appropriate for the Darwinian evolution where the looser becomes the lunch menu. You can also think about GAN as a interaction between  a "**mentor**" and a "**student**". I will use it as it is easier for the reader to relate to.
 
-What's more important, the "discriminator" provides a feedback to the "generator" on how well it did. 
+Every new design of the student is compared to the current state-of-the-art, the mentor provides a feedback on how well the student did. In reality, the student "generator" of the new design is nothing but a combination of millions of parameters seeking an optimal solution. Based on the feedback from the mentor, the student adjusts the parameters. The adjustment can be large if the creation was totally off, or it can be very small if the creation is almost perfect. 
 
-In reality, the "generator" factory of the new design is nothing but a combination of millions of parameters set to the optimal combination. Computer tries many combinations until it derives the optimal solution.
-
-Based on that feedback form "discriminator", the "generator" adjusts its parameters. The adjustment can be large if the creation was totally off, or the adjustment can be very small if the creation is almost perfect. Darwinian evolution. 
+When the new design is better, or at least indistinguishable in quality, the new standard is adopted. Yes, the mentor model can learn as well.
 
 In summary, the name Generative Adversarial Networks (GAN) implies that there are two or more "deep neural networks" which compete against each other via generation of new models. 
-
-
 
 
 
