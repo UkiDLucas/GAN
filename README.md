@@ -59,5 +59,5 @@ In summary, the name Generative Adversarial Networks (GAN) implies that there ar
 - https://www.theverge.com/2019/3/5/18251267/ai-art-gans-mario-klingemann-auction-sothebys-technology
 - https://en.wikipedia.org/wiki/Edmond_de_Belamy 
 - [Generative Adversarial Networks (GANs) - Computerphile - Rob Miles](https://www.youtube.com/watch?v=Sw9r8CL98N0)
-- 
+- [YouTube: Jeff Heaton: Create High Resolution GAN Faces with Pretrained NVidia StyleGAN and Google CoLab](https://www.youtube.com/watch?v=RPGOPrkieTE&list=PLjy4p-07OYzs6XDEm39m6g7yZWXB6MKac)
 
