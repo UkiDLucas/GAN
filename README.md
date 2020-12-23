@@ -8,7 +8,7 @@ In this study, I attempt to explain the Generative Adversarial Networks (GAN), a
 
 
 
-## Explanation via analogy
+## Analogy in biology
 
 
 
@@ -22,7 +22,7 @@ The challengers always try to outcompete the incumbents, often this happens by a
 
 
 
-### Translation to the Computer Science
+### In Computer Science
 
 
 
